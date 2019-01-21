@@ -1,0 +1,4 @@
+kind: configMap
+apiVersion: v1
+metadata:
+  name: nginx-configuration
